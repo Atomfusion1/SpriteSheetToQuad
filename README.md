@@ -16,6 +16,9 @@ png is hardcoded in pnginput.lua atm
 
 ## Help Commands
 
+![screenshot](https://github.com/Atomfusion1/SpriteSheetToQuad/screenshot.png?raw=true "screenshot")
+
+
 Below are the commands available in the application:
 
 - `q`: Delete the currently selected frame.
