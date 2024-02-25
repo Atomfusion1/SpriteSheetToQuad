@@ -15,8 +15,7 @@ png is hardcoded in pnginput.lua atm
 - **Frame Movement**: Control the movement of frames within the canvas box for precise placement.
 
 ## Help Commands
-
-![screenshot](https://github.com/Atomfusion1/SpriteSheetToQuad/screenshot.png?raw=true "screenshot")
+![screenshot](https://github.com/Atomfusion1/SpriteSheetToQuad/blob/main/Screenshot.png?raw=true "screenshot")
 
 
 Below are the commands available in the application:
