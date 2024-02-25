@@ -2,7 +2,9 @@
 Convert Compact Sprite Sheet to Grid/Quad
 Love2D 11.4 required to run 
 
-png is hardcoded in pnginput.lua atm
+Drag and Drop PNG file into screen to Edit file
+Output saved to 
+	Windows = %appdata%\LOVE\SpriteSheetToQuad
 
 ## Features
 
