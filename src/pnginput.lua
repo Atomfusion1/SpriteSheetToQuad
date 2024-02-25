@@ -55,6 +55,31 @@ end
 
 pngInput.UpdateQuad(pngInput)
 
+--! Drop a PNG file to load it Into Love2D
+function love.filedropped(file)
+    if file:getExtension() == 'png' then  -- Check if the file is a PNG
+        local success, message = file:open('r')  -- Attempt to open the file
+        if success then
+            local data = file:read()  -- Read the file's contents into a Data object
+            file:close()  -- Close the file after reading
+            pngInput.editPNG = love.graphics.newImage(love.filesystem.newFileData(data, file:getFilename()))
+            pngInput.pngWidth = pngInput.editPNG:getWidth()
+            pngInput.pngHeight = pngInput.editPNG:getHeight()
+            pngInput.canvas = love.graphics.newCanvas(pngInput.pngWidth, pngInput.pngHeight)
+            pngInput.pngQuad = love.graphics.newQuad(0, 0, pngInput.pngWidth, pngInput.pngHeight, 1,1)
+
+            love.graphics.setCanvas(pngInput.canvas)
+            love.graphics.setColor(1,1,1,.8)
+            love.graphics.draw(pngInput.squareBackground)
+            love.graphics.setColor(1,1,1,1)
+            love.graphics.draw(pngInput.editPNG, 0, 0, 0, 1, 1)
+            love.graphics.setCanvas() -- Reset the active canvas
+        else
+            print("Error opening dropped file: " .. message)
+        end
+    end
+end
+
 --@ Setup PNG Canvas
 love.graphics.setCanvas(pngInput.canvas)
 love.graphics.setColor(1,1,1,.8)
