@@ -1,0 +1,150 @@
+Loading...
+Added frame 1
+Added frame 2
+Added frame 3
+Added frame 4
+Added frame 5
+Added frame 6
+s
+Loading...
+Added frame 1
+Added frame 2
+Added frame 3
+Added frame 4
+s
+Mouse is outside the image (2)
+Added frame 5
+s
+Mouse is outside the image
+s
+Loading...
+Added frame 1
+s (2)
+Loading...
+Added frame 1
+s
+Loading...
+Added frame 1 (2)
+Added frame 2
+Added frame 3
+Added frame 4
+Added frame 5
+Added frame 6
+Backspace key pressed, removing frame 6
+s
+Mouse is outside the image (4)
+Added frame 6
+Backspace key pressed, removing frame 6
+Added frame 6
+Mouse is outside the image
+Backspace key pressed, removing frame 6
+Added frame 6
+Loading... (4)
+Mouse is outside the image
+Loading...
+Added frame 1
+Added frame 2
+Added frame 3
+Added frame 4
+Added frame 5
+Added frame 6
+Backspace key pressed, removing frame 6
+s
+Added frame 6
+s
+Mouse is outside the image (2)
+Backspace key pressed, removing frame 4
+Backspace key pressed, removing frame 5
+Mouse is outside the image
+Loading...
+Mouse is outside the image
+Loading... (4)
+Mouse is outside the image (2)
+Loading... (3)
+Added frame 1
+Added frame 2
+Added frame 3
+Added frame 1
+Added frame 2
+Added frame 3
+Added frame 4
+Added frame 5
+Added frame 6
+Loading...
+Added frame 1
+Added frame 2
+Added frame 3
+Added frame 4
+Mouse is outside the image
+Loading...
+Mouse is outside the image
+Loading...
+Added frame 1
+Added frame 2
+Added frame 3
+Added frame 4
+Added frame 5
+Added frame 6
+Added frame 7
+Added frame 8
+Added frame 9
+Added frame 10
+Added frame 11
+Added frame 12
+Added frame 13
+Added frame 14
+Added frame 15
+Added frame 16
+Added frame 17
+Added frame 18
+Added frame 19
+Added frame 20
+Added frame 21
+Added frame 22
+Added frame 23
+Added frame 24
+Added frame 25
+Added frame 26
+Added frame 27
+Added frame 28
+Added frame 29
+Added frame 30
+Added frame 31
+Added frame 32
+Added frame 33
+Added frame 34
+Added frame 35
+Added frame 36
+Added frame 37
+Added frame 38
+Added frame 39
+Added frame 40
+Added frame 41
+Loading... (2)
+s
+Added frame 1
+s
+Loading...
+Added frame 1
+s
+Loading...
+Added frame 1
+Added frame 2
+Added frame 3
+s
+Loading... (4)
+Added frame 1
+Added frame 2
+Added frame 3
+Added frame 4
+Loading...
+f released
+Added frame 1
+Added frame 2
+Added frame 3
+Added frame 4
+Added frame 5
+Loading...
+Added frame 1
+s
+Loading... (5)
